@@ -92,13 +92,13 @@ Las variables pueden tener diferentes tipos de valores. Algunos de ellos están 
 
 |**Data-Type**   |**Posible Valores**   |**Descripción**   |
 |:---------------|:--------------------|:-----------------|
-|Booleano         |Verdadero \| Falso         |Los booleanos están destinados para operaciones lógicas. Si le preguntas a una computador algo como: "¿X es igual a 3?" Responderá con un booleano (verdadero o falso).   |
+|Booleano         |Verdadero \| Falso         |Los booleanos están destinados para operaciones lógicas. Si le preguntas a un computador algo como: "¿X es igual a 3?" Responderá con un booleano (verdadero o falso).   |
 |String       |Cualquier serie de caracteres     |Los strings son la única forma en que tenemos que almacenar palabras (series de caracteres). Nota: los strings deben estar encerrados entre comillas.  |
 |Número    |Solo números     |Números enteros, números negativos, números decimales, decimales, etc. Todos los tipos posibles de números. <br> Nota: Si incluye un número entre comillas, JavaScript lo tratará como una cadena. |
 |Indefinido     |El vacío     |Cuando una variable no tiene un valor asignado, queda indefinida.   |
 |Array    |Una lista con cualquier tipo de valores.   |Una sucesión de cualquier tipo de valores. Pueden ser tipos mixtos de valores; por ejemplo: [2, 3, ‘Word’, 2, 1, null, 232, 5, 3, 23, 234, 5, ‘hello’].     |
 |Objetos    |Cualquier objeto    |Puedes crear tus propios tipos de datos con operaciones más complejas. Hablaremos más sobre esto más adelante.  |
-|Nulo     |Sólo nulo    |Se utiliza para especificar cuándo la base de datos o cualquier otra función no devuelve nada.   |
+|Nulo     |Solo nulo    |Se utiliza para especificar cuándo la base de datos o cualquier otra función no devuelve nada.   |
 
 <iframe src="https://repl.it/F05K/3?lite=true" frameborder="0" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" width="100%" height="400px" scrolling="no" allowtransparency="true" allowfullscreen="true"></iframe>
 
